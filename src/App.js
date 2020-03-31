@@ -1,10 +1,11 @@
 import React from 'react';
 
+import Logon from './pages/Logon';
 
 function App() {
   return (
-          <h1>Hello OmniStack</h1>
-  );
+        <Logon />
+    );
 }
 
 export default App;
